@@ -30,9 +30,14 @@
 
 ---
 
+## ⬇️Download
+You can download the latest executable here: [AsciiTablePro.exe](https://raw.githubusercontent.com/aelmi/AsciiTablePro/refs/heads/master/bin/Release/AsciiTablePro.exe?token=GHSAT0AAAAAADHPB4CPVPOWWKSBJICTIVIA2D3XGGQ)
+
+---
+
 ## 🖼️ Screenshots
 
-
+<img width="1512" height="779" alt="image" src="https://github.com/user-attachments/assets/eda24560-8ebd-469e-8bdc-9c57dcdcf584" />
 
 
 ---
@@ -45,7 +50,7 @@ ASCII data and descriptions are based on [ascii-code.com](https://www.ascii-code
 
 ## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ---
 
